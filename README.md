@@ -1,2 +1,2 @@
-# Tugas-Besar
-Aldi_Ragil_Alfafa_Rijal
+# absen-pegawai
+Aplikasi Absen Pegawai
